@@ -29,9 +29,12 @@ Investigar o avanço da pandemia no Brasil por meio de:
 ## 📁 Estrutura do projeto
 
 README.md # Descritivo do projeto
+
 BrazilCovid/
-├── brazil_covid_19.ipynb # Notebook principal com a análise
-└── requirements.txt # Dependências do ambiente
+
+--- brazil_covid_19.ipynb # Notebook principal com a análise
+
+--- requirements.txt # Dependências do ambiente
 
 
 ---
